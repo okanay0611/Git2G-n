@@ -20,5 +20,6 @@ public class Day2GitGithub {
         System.out.println("clon deneme");
          System.out.println("clon deneme 2");
         System.out.println("clon deneme 3");
+        System.out.println("clon deneme 4");
     }
 }
